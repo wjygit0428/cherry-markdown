@@ -100,7 +100,7 @@
   },
   "dependencies": {
     "@tencent/eslint-config-tencent": "^0.15.2",
-    "@types/mathjax": "0.0.37",
+    "@types/mathjax": "0.0.40",
     "katex": "^0.16.4",
     "mathjax": "^3.2.2",
     "md5": "^2.3.0",
