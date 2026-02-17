@@ -145,7 +145,7 @@
     "cm-search-replace": "^1.0.0",
     "jsdom": "~19.0.0",
     "mitt": "^3.0.0",
-    "openai": "^3.3.0"
+    "openai": "^4.0.0"
   },
   "resolutions": {
     "glob-parent": "5.1.2",
